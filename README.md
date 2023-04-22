@@ -5,9 +5,9 @@
 API-Keyをセットしてスタート！
 
 テキスト分割の優先度を
-- 改行(パラグラフ)
-- 句点（。|！|？|;）
-- token数
+1. 改行(パラグラフ)
+2. 句点（。|！|？|;）
+3. token数
 
 にしてみた。文脈をできるだけ保持したいなぁという気持ちだけど、ここら辺は自然言語のノウハウをしっかりと学んだ方が良さそう. 
 
@@ -22,4 +22,8 @@ API-Keyをセットしてスタート！
 あと対話型UIは神  
 あれはもしかしたら人力テストを都度挟んでるようなものなのかもしれない
 
-今回は生PythonでLLMやってみたけど次からはLangChainとか使うかな
+今回は生PythonでLLMやってみたけど次からはLangChainとか使おうかな  
+TextSplitterもあるし  
+https://python.langchain.com/en/latest/reference/modules/text_splitter.html  
+オーバーラップあるの良いな…  
+https://note.com/npaka/n/nda9dc5eae1df
