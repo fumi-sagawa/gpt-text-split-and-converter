@@ -1,4 +1,4 @@
-# gpt-split-and-converter
+# gpt-text-split-and-converter
 テキスト分割&分割したテキスト変換器  
 コンテキスト長と戦うために分割方法をこねこねして遊んでみたリポジトリ  
 今はテキスト校正ちゃんになっている  
