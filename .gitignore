@@ -1,0 +1,3 @@
+# .venvを無視
+.venv
+.DS_Store

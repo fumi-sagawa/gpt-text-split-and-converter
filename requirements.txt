@@ -1,0 +1,4 @@
+jupyter
+docx
+tiktoken
+openai
